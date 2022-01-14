@@ -10,3 +10,4 @@
 - Minecraft Deobfuscator 3000 - Deobfuscate Minecraft's obfuscated class
 - IntelliJ - IDE
 # sorry perry
+### also this source is legit terrible, i recommended using it as more of a reference :).
